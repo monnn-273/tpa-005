@@ -1,0 +1,20 @@
+{
+  "name": "tpa-005",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monnn-273/tpa-005.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monnn-273/tpa-005/issues"
+  },
+  "homepage": "https://github.com/monnn-273/tpa-005#readme"
+}
