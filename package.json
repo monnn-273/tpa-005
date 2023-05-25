@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/monnn-273/tpa-005#readme",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.18.2"
   }
 }
