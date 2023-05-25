@@ -3,21 +3,21 @@
     "username": "monika",
     "password": "Bigbang2512!",
     "database": "tpa_005",
-    "host": "http://db4free.net",
+    "host": "db4free.net",
     "dialect": "mysql"
   },
   "test": {
     "username": "monika",
     "password": "Bigbang2512!",
     "database": "tpa_005",
-    "host": "http://db4free.net",
+    "host": "db4free.net",
     "dialect": "mysql"
   },
   "production": {
     "username": "monika",
     "password": "Bigbang2512!",
     "database": "tpa_005",
-    "host": "http://db4free.net",
+    "host": "db4free.net",
     "dialect": "mysql"
   }
 }
