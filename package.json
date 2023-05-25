@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/monnn-273/tpa-005/issues"
   },
-  "homepage": "https://github.com/monnn-273/tpa-005#readme"
+  "homepage": "https://github.com/monnn-273/tpa-005#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
